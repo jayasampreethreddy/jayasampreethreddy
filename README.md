@@ -7,7 +7,7 @@
 
 - I’m seeking insights on **best practices for deploying machine learning models in production using tools like Docker, Jenkins, and AWS. Additionally, I welcome advice on advanced MLOps strategies.**
 
-- 💬 Ask me about **Machine Learning, Deep learning, NLP, MLOps, MERN Stack**
+- 💬 Ask me about **Machine Learning, Deep learning, NLP, MERN Stack**
 
 - 📫 Contact me through **kondejayasampreethreddy@gmail.com**
 
