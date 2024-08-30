@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaya Sampreeth Reddy</h1>
-- 🔭 I’m currently working on **MLOps, with a strong focus on integrating machine learning models into scalable and efficient production environments. My work includes exploring the intersection of AI and cloud technologies**
+- 🔭 I’m currently working on MLOps, with a strong focus on integrating machine learning models into scalable and efficient production environments. My work includes exploring the intersection of AI and cloud technologies
 
 - 🌱 I’m currently learning **MLOps techniques**
 
