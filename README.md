@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaya Sampreeth Reddy</h1>
 
 - 🔭 Currently working on MLOps.
-- Agentic AI enthusiast
+- Agentic AI enthusiast.
 - Exploring AI and cloud technologies.
 - 👯 Looking to collaborate on innovative MLOps projects.
 - Interested in automating machine learning workflows
