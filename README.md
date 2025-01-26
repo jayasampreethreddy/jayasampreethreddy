@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaya Sampreeth Reddy</h1>
 
 - 🔭 Currently working on MLOps.
+- Agentic AI enthusiast
 - Exploring AI and cloud technologies.
 - 👯 Looking to collaborate on innovative MLOps projects.
 - Interested in automating machine learning workflows
 - Interested in Docker, Jenkins, and AWS.
-- 💬 Ask me about Machine Learning, Deep Learning, NLP, MERN Stack.
+- 💬 Ask me about Machine Learning, Deep Learning, NLP.
 - 📫 Contact me at kondejayasampreethreddy@gmail.com.
 - ⚡ Fun fact: I love Cricket.
 
